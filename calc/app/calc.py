@@ -1,4 +1,4 @@
 def add(a, b):
-  raise NotImplementedError
+  return a+b
 def multiply(a, b):
   raise NotImplementedError
